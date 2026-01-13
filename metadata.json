@@ -1,0 +1,7 @@
+{
+  "name": "Copy of AI Fashion Studio",
+  "description": "A high-end professional AI fashion visualizer for virtual try-ons, pose adjustments, and fabric detailing using Gemini 2.5 Flash Image.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
